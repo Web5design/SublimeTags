@@ -1,0 +1,6 @@
+[
+
+// Tags
+    { "keys": ["super+ctrl+t"], "command": "tag" }
+
+]
